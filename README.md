@@ -6,8 +6,13 @@ List of Environments
 2. CodeChef
 3. TopCoder
 
+## Calendar of upcoming events
 
-# Appreciation
+1. https://competitiveprogramming.info/calendar
+2. https://clist.by/
+3. https://www.codingal.com/competitions/ 
+
+## Appreciation
 
 Please show your love here
 
